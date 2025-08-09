@@ -30,8 +30,8 @@ This project presents an interactive Excel dashboard built to analyze and visual
 
 ## 🖼️ Dashboard Preview
 
-> ![Dashboard Screenshot](screenshots/Dashboard_Screenshot.png)
-> *(Replace with your actual screenshot once uploaded)*
+- <a href="https://github.com/Prathameshkal/Consumer-Complaints-Dashboard/blob/main/Dashoard1.jpg">Dashboard Screenshot
+
 
 ---
 
