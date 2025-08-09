@@ -30,7 +30,8 @@ This project presents an interactive Excel dashboard built to analyze and visual
 
 ## 🖼️ Dashboard Preview
 
-- <a href="https://github.com/Prathameshkal/Consumer-Complaints-Dashboard/blob/main/Dashoard1.jpg">Dashboard Screenshot
+- ![Dashoard1](https://github.com/user-attachments/assets/03f3515c-b13c-40c6-90c3-e2b972bd74cf)
+
 
 
 ---
@@ -66,18 +67,6 @@ Performed in Excel using:
 
 ---
 
-## 📦 Repository Structure
-
-```
-📂 Consumer-Complaints-Dashboard/
-├── 📊 ConsumerComplaints.xlsx
-├── 🖼️ screenshots/
-│   └── Dashboard_Screenshot.png
-└── 📄 README.md
-```
-
----
-
 ## 🧠 Skills Demonstrated
 
 - Microsoft Excel: Pivot Tables, Charts, Data Cleaning, Dashboarding
@@ -89,17 +78,12 @@ Performed in Excel using:
 
 ## 📝 Author
 
+**ConfusedProgrammer**
 **Prathamesh Kale**  
-Aspiring Data Analyst & COBOL Developer  
+Aspiring Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-kale-4aa509233)  
 📧 prathameshkale60@gmail.com  
 
 ---
 
-## 📢 Feedback & Contributions
 
-This project is open to suggestions and improvements. Feel free to fork, star, or raise an issue. Let's grow together as a data community!
-
----
-
-> **Note**: This project is built for portfolio and educational purposes using anonymized data.
